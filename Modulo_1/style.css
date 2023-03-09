@@ -1,0 +1,18 @@
+ /* isso se chama recetar no navegador */
+* {margin:0; padding: 0%;}
+ 
+h1{
+    color: rgb(216, 210, 24);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    color: rgb(51, 6, 201);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+input{
+    width: 200px; background-color: rgb(31, 31, 155);
+
+}
