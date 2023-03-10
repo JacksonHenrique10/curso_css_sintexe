@@ -1,0 +1,23 @@
+* {margin:0; padding: 0%;}
+/* 
+/* /* h1{
+    color: red;
+    text-align: center;
+
+} */
+/* 
+h2{
+    color: rgb(255, 115, 0);
+    text-align: center;
+
+}
+
+p{
+    color: rgb(60, 133, 236);
+    text-align: center;
+} */ */ */
+
+h1,h2,p{
+    color: aqua;
+    font-size: small;
+}
