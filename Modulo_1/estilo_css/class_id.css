@@ -2,7 +2,19 @@
 
 .texto-principal{
 
-    color: aqua;
+    color: rgb(12, 10, 24);
 }
 
-.texto-segundaria{color: blue;}
+/* .texto-segundario{color: blue;} */
+
+/* . significa o atributo classe */
+/* background-color - cor de fundo */
+
+
+#texto1{
+background-color: aquamarine;} 
+
+#texto2{
+    
+    background-color: darksalmon;
+}
