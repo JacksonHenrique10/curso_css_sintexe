@@ -1,0 +1,41 @@
+* {padding: 0; margin: 0; box-sizing: border-box;}/*resetando*/
+
+
+/* para referenciar um id eu preciso usar o # */
+
+
+#bloco{
+    background-color: darkorange;
+    width: 300px;
+    height: 150px;
+    border-radius: 20px;
+
+
+}
+
+
+#conteudo{
+background-color: red;
+
+width: 300px;
+  /* => linha 7Largura */
+
+height: 50px;
+  /* ==> altura */
+
+padding: 20px;
+    /* ===>> aconchoamento */
+
+overflow: hidden;
+        /* ==> linha de corte no conteudo */
+box-shadow: 10px 10px 5px pink;
+}
+
+#conteudo2{
+background-color: blueviolet;
+width: 300px;
+padding: 20px;
+overflow: scroll;
+        /* ==> linha de rolagem */
+box-shadow: 10px 10px 5px pink;
+}
