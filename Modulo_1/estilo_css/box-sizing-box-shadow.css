@@ -1,0 +1,24 @@
+* {padding: 0; margin: 0; box-sizing: border-box;}
+
+/* para referenciar um id eu preciso usar o # */
+
+#conteudo{
+background-color: red;
+
+width: 300px;
+  /* => linha 7Largura */
+
+padding: 20px;
+    /* ===>> Altura */
+box-sizing: border-box;
+    /* ==> realiza o ajuste da pagina para a quantidade escolhida em px */
+
+box-shadow: 10px 10px 5px pink;
+}
+
+#conteudo2{
+background-color: blueviolet;
+width: 300px;
+padding: 20px;
+box-shadow: 10px 10px 5px pink;
+}
